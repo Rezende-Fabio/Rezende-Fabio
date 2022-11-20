@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Análista de Suporte Júnior
 - 👨‍💻 Cursnado Análise e Desenvolvimento de Sistemas (IFSP)
-- 🌱 Estudando Python e Java
+- 🌱 Estudando Python e Java Script
 
 <div align="center" style="display: flex; align-items: center; flex-wrap: nowrap;">
   <a href="https://github.com/Rezende-Fabio">
