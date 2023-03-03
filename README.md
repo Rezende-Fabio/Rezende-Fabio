@@ -17,7 +17,7 @@
   <img align="center" alt="Fabio-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Fabio-Windows" height="30" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor">
   <img align="center" alt="Fabio-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  <img aling="center" alt="Fabio-Django" height="60" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
+  <img aling="center" alt="Fabio-Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
   <img aling="center" alt="Fabio-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
   
