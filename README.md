@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Fabio Rezende
 
-- 🔭 Hoje trabalho como Analista de Suporte Júnior
+- 🔭 Hoje trabalho como Auxiliar de CPD
 - 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas (IFSP)
 - 🌱 Estudando Python e JavaScript
 
