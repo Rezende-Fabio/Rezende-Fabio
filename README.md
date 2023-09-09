@@ -1,8 +1,8 @@
-## Olá! Eu sou o Fabio Rezende
+## Hi! I'm Fabio Rezende
 
-- 🔭 Hoje trabalho como Auxiliar de T.I
-- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas (IFSP)
-- 🌱 Estudando Python e JavaScript
+- 🔭 Today I work as an IT Assistant
+- 👨‍💻 Studying Systems Analysis and Development (IFSP)
+- 🌱 Studying Python and JavaScript
 
 ## 🌐 Socials
 <div align="center">
@@ -49,16 +49,13 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-
-
+  
   ![](https://github-profile-trophy.vercel.app/?username=Rezende-Fabio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
   
 ##
-<div class="contacts" align="center">
-
-
-  <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Rezende-Fabio) -->
-  <!--![Snake animation](https://github.com/Rezende-Fabio/Rezende-Fabio/blob/output/github-contribution-grid-snake.svg)
+<!--<div class="contacts" align="center">
+   ![](https://visitor-badge.glitch.me/badge?page_id=Rezende-Fabio)
+  ![Snake animation](https://github.com/Rezende-Fabio/Rezende-Fabio/blob/output/github-contribution-grid-snake.svg)
 </div> --> 
   
