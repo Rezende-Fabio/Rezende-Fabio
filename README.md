@@ -32,20 +32,12 @@
 </table>
 
 # 💻 Tech Stack
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: nowrap;"><br>
-  <img align="center" alt="Fabio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Fabio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Fabio-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Fabio-SqLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />      
-</div>
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: nowrap;"><br>
-  <img aling="center" alt="Fabio-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img aling="center" alt="Fabio-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img aling="start" alt="Fabio-Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
-  <img aling="center" alt="Fabio-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,dart,flask,flutter,django,mysql,sqlite,postgres,docker,github,git" />
+  </a>
+</p>
+<br>
 
 ## 🏆 GitHub Trophies
 <div align="center">
