@@ -1,6 +1,6 @@
 ## Hi! I'm Fabio Rezende
 
-- 🔭 Today I work as an IT Assistant
+- 🔭 Today I work as a Junior Systems Analyst
 - 👨‍💻 Studying Systems Analysis and Development (IFSP)
 - 🌱 Studying Python and JavaScript
 
