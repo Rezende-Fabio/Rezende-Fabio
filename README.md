@@ -46,6 +46,9 @@
 </div>
   
 ##
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rezende-Fabio&style=for-the-badge&color=lightgrey"/>
+</div>
 <!--<div class="contacts" align="center">
    ![](https://visitor-badge.glitch.me/badge?page_id=Rezende-Fabio)
   ![Snake animation](https://github.com/Rezende-Fabio/Rezende-Fabio/blob/output/github-contribution-grid-snake.svg)
