@@ -2,7 +2,7 @@
 
 - 🔭 Today I work as a Junior Systems Analyst
 - 👨‍💻 Graduated in Systems Analysis and Development (IFSP)
-- 🌱 Studying Python and JavaScript
+- 🌱 Studying C# and JavaScript
 
 ## 🌐 Socials
 <div align="center">
