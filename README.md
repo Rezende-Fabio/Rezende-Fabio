@@ -1,5 +1,7 @@
 ## Hi! I'm Fabio Rezende
 
+<img src="./assets/Banner.png">
+
 - 🔭 Today I work as a Junior Systems Analyst
 - 👨‍💻 Graduated in Systems Analysis and Development (IFSP)
 - 🌱 I am currently studying Flutter, C# and JavaScript.
@@ -49,8 +51,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rezende-Fabio&style=for-the-badge&color=lightgrey"/>
 </div>
-<!--<div class="contacts" align="center">
-   ![](https://visitor-badge.glitch.me/badge?page_id=Rezende-Fabio)
-  ![Snake animation](https://github.com/Rezende-Fabio/Rezende-Fabio/blob/output/github-contribution-grid-snake.svg)
-</div> --> 
-  
