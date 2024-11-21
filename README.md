@@ -36,8 +36,7 @@
 # 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cs,dart,flask,nestjs,dotnet,flutter,mysql,sqlite,postgres,docker,git"/><br>
-    <img src="https://skillicons.dev/icons?i=html,css,angular"/>
+    <img src="https://skillicons.dev/icons?i=py,js,ts,cs,dart,flask,nestjs,dotnet,flutter,mysql,sqlite,postgres,docker,git,html,css,angular&perline=14"/>
   </a>
 </p>
 <br>
