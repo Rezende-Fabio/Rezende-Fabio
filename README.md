@@ -1,4 +1,4 @@
-## Hi! I'm Fabio Rezende
+## Hi! I'm Fábio Rezende
 
 <img src="./assets/Banner.png">
 
